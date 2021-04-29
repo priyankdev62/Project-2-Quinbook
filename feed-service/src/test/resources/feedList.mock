@@ -1,0 +1,34 @@
+[
+  {
+    "commentList": [
+      {
+        "commentText": "string",
+        "commentedBy": "string"
+      }
+    ],
+    "date": "string",
+    "dislike": 0,
+    "like": 0,
+    "location": "string",
+    "postCaption": "string",
+    "postDislikedList": [
+      {
+        "likeDislikeFullName": "string",
+        "likeDislikeProfileUrl": "string",
+        "likeDislikeUserName": "string"
+      }
+    ],
+    "postId": "string",
+    "postImages": [
+      "string"
+    ],
+    "postLikedList": [
+      {
+        "likeDislikeFullName": "string",
+        "likeDislikeProfileUrl": "string",
+        "likeDislikeUserName": "string"
+      }
+    ],
+    "userName": "string"
+  }
+]
